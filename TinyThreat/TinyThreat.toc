@@ -1,0 +1,9 @@
+## Interface: 16001
+## Title: TinyThreat
+## Notes: Faerbt die Lebensbalken der Gegner-Namensplaketten nach Threat ein (inkl. Tank-Modus).
+## Notes-deDE: Faerbt die Lebensbalken der Gegner-Namensplaketten nach Threat ein (inkl. Tank-Modus).
+## Author: Du
+## Version: 0.3.0
+## SavedVariables: TinyThreatDB
+
+TinyThreat.lua
